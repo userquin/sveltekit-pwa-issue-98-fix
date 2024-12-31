@@ -14,6 +14,9 @@ export default defineConfig({
 					'client/**/*.{js,css,ico,png,svg,webp,webmanifest,ttf,woff,woff2}',
 					'prerendered/**/*.{html,json}'
 				]
+			},
+			kit: {
+				includeVersionFile: true
 			}
 		})
 	]
