@@ -1,0 +1,9 @@
+{
+	"name": "PWA Prerendered",
+	"short_name": "PWA Prerendered",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#FFA500",
+	"icons": []
+}
